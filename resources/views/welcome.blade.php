@@ -391,7 +391,7 @@
                 </div>
             </div>
             <div class="row justify-content-center">
-                <div class="col-lg-10 col-12">
+                <div class="col-lg-12 col-12">
                     <div class="row">
                         <div class="col-lg-4 col-12">
                             <div class="item-review">
@@ -406,7 +406,7 @@
                                             Fanny
                                         </h4>
                                         <p class="role">
-                                            Developer at Google
+                                            Backend Developer at Apple
                                         </p>
                                     </div>
                                 </div>
@@ -419,13 +419,13 @@
                                     Code is really important if we want to build a company and strike to the win
                                 </p>
                                 <div class="user">
-                                    <img src="{{asset('images/angga.png')}}" class="photo" alt="">
+                                    <img src="{{asset('images/rakha.png')}}" class="photo" alt="">
                                     <div class="info">
                                         <h4 class="name">
-                                            Angga
+                                            Rakha
                                         </h4>
                                         <p class="role">
-                                            CEO at BWA Corp
+                                            Software Engineer at Google
                                         </p>
                                     </div>
                                 </div>
@@ -444,7 +444,7 @@
                                             Beatrice
                                         </h4>
                                         <p class="role">
-                                            QA at Facebook
+                                            Quality Assurance at Meta
                                         </p>
                                     </div>
                                 </div>
